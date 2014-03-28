@@ -1,0 +1,4 @@
+Host *.test.tld
+     StrictHostKeyChecking no
+     UserKnownHostsFile=/dev/null
+     User <user>
